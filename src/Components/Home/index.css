@@ -1,0 +1,25 @@
+.parent_container {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  background-image: linear-gradient(to right, white 70%, #83f7e0);
+}
+
+.child_container {
+  width: 90%;
+}
+.border_styles {
+  border: 2px solid rgb(0, 255, 183);
+  border-radius: 20px;
+  padding: 2px 15px 2px 2px;
+}
+
+.cardContainer {
+  flex-wrap: wrap;
+}
+.buttonCls {
+  border-radius: 25px;
+  background-color: black;
+  padding: 1px 20px 2px 20px;
+}

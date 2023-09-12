@@ -1,0 +1,22 @@
+.offer_container {
+  background-color: rgb(215, 247, 245);
+}
+.icon_color {
+  color: rgb(93, 203, 208);
+}
+.parent {
+  border-radius: 10px;
+  border: solid 2px #83f7e0;
+  position: relative;
+}
+.most {
+  padding: 5px 20px 5px 20px;
+  border-radius: 10px;
+  background-image: linear-gradient(to right, white, #83f7e0, #50f273);
+  position: absolute;
+  /* left: 35%; */
+  /* left: 50; */
+  left: 28%;
+
+  top: -18px;
+}
