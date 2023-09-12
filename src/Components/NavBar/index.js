@@ -24,7 +24,7 @@ const NavBar = () => {
         </button>
 
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul className="navbar-nav mr-auto d-flex align-items-center ml-md-4">
+          <ul className="navbar-nav mr-auto d-flex align-items-center">
             <li className="nav-item dropdown">
               <p
                 className="nav-link dropdown-toggle m-0 h5"
